@@ -8,7 +8,7 @@
 
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
-- <a href="https://space.bilibili.com/33401301"><code><img height="20" width="50" src="./images/bilibili.png"></code></a>：bilibili小白UP主,玩玩梗捏
+- <a href="https://space.bilibili.com/33401301"><code><img height="20" width="50" src="./images/bilibili.png"></code></a>：bilibili 小白 UP 主,玩玩梗捏
 
 ### **技术栈:**
 
@@ -32,4 +32,3 @@
 ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=ChthollyML&show_icons=true&theme=vue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChthollyML&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChthollyML&layout=compact&langs_count=6)
