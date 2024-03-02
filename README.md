@@ -5,7 +5,7 @@
 热爱前端、热爱技术，闲暇时间做做视频^\_^
 
 ### **社交主页：**
- <img align="right" alt="GIF" src="./images/code.gif" width="600" height="480" />
+ <img align="right" alt="GIF" src="./images/code.gif" width="500" height="400" />
  
 <a href="https://space.bilibili.com/33401301"><code><img height="20" width="50" src="./images/bilibili.png"></code></a>：bilibili小白UP主,玩玩梗捏
 
