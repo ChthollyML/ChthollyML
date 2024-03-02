@@ -6,7 +6,8 @@
 
 ### **社交主页：**
  <img align="right" alt="GIF" src="./images/code.gif" width="500" height="100%" />
-- <a href="https://space.bilibili.com/33401301"><code><img height="20" width="50" src="./images/bilibili.png"></code></a>：bilibili小白UP主,玩玩梗捏
+<a href="https://space.bilibili.com/33401301"><code><img height="20" width="50" src="./images/bilibili.png"></code></a>：bilibili小白UP主,玩玩梗捏
+<a href="https://juejin.cn/user/374262323754350/posts"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：这里也看看嘛。
 ### **技术栈:**
 
 <a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
