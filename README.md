@@ -2,7 +2,7 @@
 
 ## ZJUT大三 学生—Chtolly
 
-热爱前端、热爱技术。
+热爱前端、热爱技术，闲暇时间做做视频^_^
 
 ### **社交主页：**
 
@@ -32,7 +32,7 @@
 ### Github 活跃度
 
 [![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Minori-ty&show_icons=true&theme=vue)
+![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=ChthollyML&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&layout=compact&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChthollyML&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChthollyML&layout=compact&langs_count=6)
