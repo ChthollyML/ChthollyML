@@ -6,10 +6,9 @@
 
 ### **社交主页：**
 
- <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
+ <img align="right" alt="GIF" src="./images/code.gif" width="500" height="100%" />
 
 - <a href="https://space.bilibili.com/33401301"><code><img height="20" width="50" src="./images/bilibili.png"></code></a>：bilibili小白UP主,玩玩梗捏
-
 ### **技术栈:**
 
 <a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
@@ -28,8 +27,5 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ChthollyML&repo=Web-Notes)](https://github.com/ChthollyML/Web-Notes)
 <br><br><br>
 ### Github 活跃度
-
 [![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=ChthollyML&show_icons=true&theme=vue)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChthollyML&langs_count=6)
