@@ -13,7 +13,7 @@
 ### **技术栈:**
 
 <a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
-<a href="https://element-plus.gitee.io/zh-CN/"><code><img height="20" src="./images/elmentplus.png"></code></a>
+<a href="https://element-plus.gitee.io/zh-CN/"><code><img height="20" src="./images/elment plus.png"></code></a>
 <a href="https://www.tslang.cn/index.html"><code><img height="20" src="./images/typescript.png"></code></a>
 <a href="https://webpack.js.org/"><code><img height="20" src="./images/webpack.svg"></code></a>
 <a href="https://cn.vitejs.dev"><code><img height="20" src="./images/vite.png"></code></a>
@@ -32,4 +32,3 @@
 ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=ChthollyML&show_icons=true&theme=vue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChthollyML&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChthollyML&layout=compact&langs_count=6)
