@@ -23,7 +23,6 @@
 ### 开源项目
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ChthollyML&repo=-sama)](https://github.com/ChthollyML/-sama)
-<br><br><br>
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ChthollyML&repo=Web-Notes)](https://github.com/ChthollyML/Web-Notes)
 <br><br><br>
 ### Github 活跃度
