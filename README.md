@@ -5,9 +5,7 @@
 热爱前端、热爱技术，闲暇时间做做视频^\_^
 
 ### **社交主页：**
-
  <img align="right" alt="GIF" src="./images/code.gif" width="500" height="100%" />
-
 - <a href="https://space.bilibili.com/33401301"><code><img height="20" width="50" src="./images/bilibili.png"></code></a>：bilibili小白UP主,玩玩梗捏
 ### **技术栈:**
 
@@ -21,7 +19,6 @@
 <a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
 
 ### 开源项目
-
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ChthollyML&repo=-sama)](https://github.com/ChthollyML/-sama)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ChthollyML&repo=Web-Notes)](https://github.com/ChthollyML/Web-Notes)
 <br><br><br>
