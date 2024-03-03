@@ -25,7 +25,7 @@
 ### 开源项目
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ChthollyML&repo=-sama)](https://github.com/ChthollyML/-sama)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ChthollyML&repo=Web-Notes)](https://github.com/ChthollyML/Web-Notes)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=ChthollyML&repo=Bullet-screen)](https://github.com/ChthollyML/Bullet-screen)
 <br><br>
 ### Github 活跃度
 [![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
