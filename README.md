@@ -21,11 +21,6 @@
 <a href="https://sass-lang.com"><code><img height="20" src="./images/sass2.png"></code></a>
 <a href="https://tailwindcss.com"><code><img height="20" src="./images/tailwindcss.png"></code></a>
 <a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
-
-### 开源项目
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ChthollyML&repo=-sama)](https://github.com/ChthollyML/-sama)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ChthollyML&repo=Bullet-screen)](https://github.com/ChthollyML/Bullet-screen)
 <br><br>
 ### Github 活跃度
 [![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
