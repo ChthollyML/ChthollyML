@@ -1,6 +1,6 @@
 <img align="right" src="https://count.getloli.com/get/@:ChthollyML?theme=rule34">
 
-## ZJUT 大三 学生—ChtollyML
+## ZJUT 大四 学生—ChtollyML
 
 热爱前端、热爱技术，闲暇时间做做视频^\_^
 
